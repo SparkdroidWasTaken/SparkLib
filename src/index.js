@@ -1,1 +1,1 @@
-export { square } from './math/functions.js';
+export * from './math/functions.js';
