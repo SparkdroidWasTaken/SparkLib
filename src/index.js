@@ -1,0 +1,1 @@
+export { square } from './math/square.js';
